@@ -24,7 +24,7 @@ Versión demostrativa ejecutable localmente (con datos 100 % ficticios y modo mo
 - **Destacado:** Roles diferenciados (Kinesiólogo / Paciente), autenticación JWT + cifrado AES-256, agenda por sucursales, gestión clínica, planificaciones multi-día con exportación a PDF/QR y seed automático listo para probar en dos comandos.
 - **Stack:** `React 19` · `Vite` · `Zustand` · `Node.js` · `Express 5` · `Sequelize` · `SQLite / MySQL` · `JWT`
 
-#### [Ugoke · Portal de Capacitación para Pacientes](https://github.com/mbiondonardi/ugoke-training-portal)
+#### [Ugoke · Portal de Capacitación para Pacientes](https://github.com/mbiondonardi/ugoke-training-portal) · [Demo en vivo](https://mbiondonardi.github.io/ugoke-training-portal/)
 Portal web interactivo y accesible diseñado bajo criterios **WCAG AA** para capacitar a pacientes adultos y adultos mayores en el uso autónomo de su plataforma de rehabilitación domiciliaria.
 - **Destacado:** 4 módulos guiados, simulador clínico de 9 casos, audio-guías (podcasts + Web Speech API), **modo dislexia (`OpenDyslexic`)**, alto contraste, escalado tipográfico, navegación completa por teclado y panel analítico de seguimiento (`#/reportes`) con exportación a CSV.
 - **Stack:** `React 18` · `Vite 6` · `Tailwind CSS` · `Web Speech API` · `Node.js`
@@ -60,7 +60,7 @@ Colección de **5 aplicaciones completas de IA Generativa y Agentes** que abarca
 
 ### 4. Entornos 3D & Simulación
 
-#### [Operación Juguetes · Juego 3D en Primera Persona](https://github.com/mbiondonardi/operacion-juguetes-3d)
+#### [Operación Juguetes · Juego 3D en Primera Persona](https://github.com/mbiondonardi/operacion-juguetes-3d) · [Jugar online](https://mbiondonardi.github.io/operacion-juguetes-3d/)
 Videojuego 3D de sigilo en primera persona para navegador con estética cartoon y arquitectura modular sin frameworks externos.
 - **Destacado:** Casa explorable de 5 niveles con múltiples rutas de infiltración, IA de enemigos con máquina de estados, visión/audición y pathfinding BFS, ciclo Día/Noche con cortes de luz, audio espacial 3D y música adaptativa con **Web Audio API**, niveles de dificultad y persistencia de récords.
 - **Stack:** `JavaScript (ES Modules)` · `Three.js` · `Web Audio API` · `Vite`
@@ -77,11 +77,11 @@ Simulador interactivo de eventos discretos que modela un taller de servicio téc
 | Proyecto | Área | Tecnologías principales | Repositorio |
 | :--- | :--- | :--- | :--- |
 | **Ugoke Kinesiología Demo** | Full Stack | React 19, Node.js, Express, Sequelize, SQLite | [Ver código](https://github.com/mbiondonardi/ugoke-kinesiologia-demo) |
-| **Ugoke Training Portal** | Frontend / Accesibilidad | React 18, Vite, Tailwind CSS, WCAG AA | [Ver código](https://github.com/mbiondonardi/ugoke-training-portal) |
+| **Ugoke Training Portal** | Frontend / Accesibilidad | React 18, Vite, Tailwind CSS, WCAG AA | [Ver código](https://github.com/mbiondonardi/ugoke-training-portal) · [Demo](https://mbiondonardi.github.io/ugoke-training-portal/) |
 | **Logistics Microservices** | Backend / Distribuido | Java 21, Spring Boot, Gateway, Keycloak, Docker | [Ver código](https://github.com/mbiondonardi/logistics-microservices-spring) |
 | **Retail Inventory & POS** | Software / BI | Python, Tkinter, SQLite, OpenPyXL, Pytest | [Ver código](https://github.com/mbiondonardi/retail-inventory-pos-python) |
 | **LangChain & LangGraph Agents** | IA Generativa / Agentes | Python, LangGraph, Gemini, ChromaDB, FastAPI | [Ver código](https://github.com/mbiondonardi/langchain-langgraph-agents) |
-| **Operación Juguetes 3D** | 3D / GameDev | JavaScript, Three.js, Web Audio API, Vite | [Ver código](https://github.com/mbiondonardi/operacion-juguetes-3d) |
+| **Operación Juguetes 3D** | 3D / GameDev | JavaScript, Three.js, Web Audio API, Vite | [Ver código](https://github.com/mbiondonardi/operacion-juguetes-3d) · [Jugar](https://mbiondonardi.github.io/operacion-juguetes-3d/) |
 | **Simulador de Colas i-Fix** | Simulación / Datos | Python, Streamlit, Pandas, Altair | [Ver código](https://github.com/mbiondonardi/ifix-queue-simulator) |
 
 ---

@@ -88,5 +88,6 @@ Simulador interactivo de eventos discretos que modela un taller de servicio téc
 
 ## 📫 Contacto
 
+- **LinkedIn:** [Martín Biondo Nardi](https://www.linkedin.com/in/mart%C3%ADn-biondo-nardi-14870b400)
 - **GitHub:** [@mbiondonardi](https://github.com/mbiondonardi)
 - **Email:** [martinbiondonardi@gmail.com](mailto:martinbiondonardi@gmail.com)
